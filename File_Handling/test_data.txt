@@ -1,8 +1,1 @@
-I like ninja turtules
-My name is brianI am in kca 
-Temperature data is 23 and humidity of 79
-Temperature data is 56 and humidity of 70
-Temperature data is 35 and humidity of 80
-Temperature data is 53 and humidity of 87
-Temperature data is 50 and humidity of 97
-Temperature data is 45 and humidity of 71
+Temperature data is 42 and humidity of 86

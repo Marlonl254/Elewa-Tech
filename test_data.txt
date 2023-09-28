@@ -1,1 +1,0 @@
-Temperature data is 42 and humidity of 86
